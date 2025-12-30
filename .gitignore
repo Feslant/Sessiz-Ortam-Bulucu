@@ -1,0 +1,33 @@
+Bağımlılıklar (En önemlisi bu)
+
+node_modules/
+.pnp
+.pnp.js
+
+Test ve Derleme Dosyaları
+
+coverage/
+android/app/build/
+android/.gradle/
+ios/build/
+ios/Pods/
+
+Expo ve Sistem Dosyaları
+
+.expo/
+dist/
+web-build/
+.DS_Store
+*.log
+
+Editör Ayarları
+
+.vscode/
+.idea/
+
+Anahtarlar ve Sertifikalar (Güvenlik için)
+
+*.jks
+*.p12
+*.key
+*.keystore
