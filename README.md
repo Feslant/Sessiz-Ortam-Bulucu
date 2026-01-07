@@ -37,5 +37,5 @@ Medya: Expo AV (Audio/Video)
 Depolama: Async Storage & Firebase Storage
 
 
-           -Geliştiren Ekip-
+-Geliştiren Ekip-
 Arda Yağız YILDIZ - Irmak DÜZTOP - Betül DÜŞÜN
