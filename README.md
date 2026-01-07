@@ -38,4 +38,5 @@ Depolama: Async Storage & Firebase Storage
 
 
 -Geliştiren Ekip-
+
 Arda Yağız YILDIZ - Irmak DÜZTOP - Betül DÜŞÜN
