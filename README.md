@@ -20,7 +20,7 @@ Bu proje, Kullanıcıların gürültüden uzaklaşıp verimli çalışabilecekle
 
 ⚙️ Test Edildiğimiz Platformlar
 
- *Fiziksel Android Cihaz,Android Emulator
+Fiziksel Android Cihaz, Android Emulator
 
 🛠️ Kullanılan Teknolojiler
 
