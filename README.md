@@ -1,8 +1,5 @@
 *Sessiz Ortam Bulucu*
 
-Öğrenciler, freelance çalışanlar ve odaklanmak isteyen bireyler için geliştirilmiş; sessiz çalışma alanlarını (kütüphane, kafe, park vb.) harita üzerinde gösteren 
-mobil uygulama.
-
 🚀 Proje Hakkında
 
 Bu proje, Kullanıcıların gürültüden uzaklaşıp verimli çalışabilecekleri mekanları keşfetmelerini ve uygulama içi araçlarla odaklanmalarını sağlar.
@@ -21,73 +18,24 @@ Bu proje, Kullanıcıların gürültüden uzaklaşıp verimli çalışabilecekle
 
 📋 Liste Görünümü: Mekanları isim ve kategoriye göre filtreleme imkanı.
 
+⚙️ Test Edildiğimiz Platformlar
+
+ *Fiziksel Android Cihaz,Android Emulator
+
 🛠️ Kullanılan Teknolojiler
 
-Bu proje, modern mobil uygulama geliştirme standartlarına uygun olarak aşağıdaki teknolojilerle geliştirilmiştir:
+Framework: React Native (Expo SDK 52)
 
-Alan
+Dil: TypeScript / JavaScript
 
-Teknoloji
+Backend: Firebase (Firestore, Authentication, Storage)
 
-Framework
+Harita: React Native Maps & Google Maps API
 
-React Native (Expo SDK 52)
+Medya: Expo AV (Audio/Video)
 
-Dil
-
-TypeScript / JavaScript
-
-Backend
-
-Firebase (Firestore, Authentication, Storage)
-
-Harita
-
-React Native Maps & Google Maps API
-
-Medya
-
-Expo AV (Audio/Video)
-
-Depolama
-
-Async Storage & Firebase Storage
-
-📱 Kurulum ve Çalıştırma
-
-Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
-
-Repoyu Klonlayın:
-
-git clone [https://github.com/KULLANICI_ADINIZ/sessiz-ortam-bulucu.git](https://github.com/KULLANICI_ADINIZ/sessiz-ortam-bulucu.git)
-cd sessiz-ortam-bulucu
+Depolama: Async Storage & Firebase Storage
 
 
-Bağımlılıkları Yükleyin:
-
-npm install
-
-
-Uygulamayı Başlatın:
-
-npx expo start
-
-
-Test Edin:
-
-Terminalde çıkan QR kodu telefonunuzdaki Expo Go uygulaması ile okutun.
-
-Veya a tuşuna basarak Android Emülatörde çalıştırın.
-
-📂 Proje Yapısı
-
-sessiz-ortam-bulucu/
-├── app/                 # Ekranlar ve Sayfa Yönlendirmeleri (Expo Router)
-│   ├── (tabs)/          # Alt Menü Sayfaları (Harita, Müzik, Profil...)
-│   ├── index.tsx        # Açılış Ekranı
-│   └── _layout.tsx      # Ana Navigasyon Ayarları
-├── assets/              # Resimler, Fontlar ve Müzik Dosyaları
-├── components/          # Tekrar Kullanılabilir Bileşenler
-├── config/              # Firebase Ayar Dosyaları
-└── firebaseConfig.ts    # Veritabanı Bağlantısı
-
+           -Geliştiren Ekip-
+Arda Yağız YILDIZ - Irmak DÜZTOP - Betül DÜŞÜN
